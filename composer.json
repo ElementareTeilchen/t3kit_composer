@@ -48,9 +48,6 @@
     "typo3-ter/guide": "1.0.0"
   },
   "require-dev": {
-    "t3kit/theme-t3kit": "dev-master",
-    "t3kit/theme-t3kit-bluemountain": "dev-master",
-    "pixelant/pxa-form-enhancement": "^1.0",
     "pixelant/pxa-newsletter-subscription": "dev-master"
   },
   "extra": {
