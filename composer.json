@@ -45,7 +45,8 @@
     "typo3-ter/static-info-tables": "^6.3",
     "helhum/typo3-console": "4.1.2",
     "patrickbroens/url-forwarding": "1.2.0",
-    "typo3-ter/guide": "1.0.0"
+    "typo3-ter/guide": "1.0.0",
+    "in2code/powermail": "^3.17"
   },
   "require-dev": {
     "pixelant/pxa-newsletter-subscription": "dev-master"

@@ -264,6 +264,18 @@ return [
             'packagePath' => 'typo3conf/ext/dyncss_less/',
             'suggestions' => [],
         ],
+        'realurl' => [
+            'composerName' => 'dmitryd/typo3-realurl',
+            'state' => 'active',
+            'packagePath' => 'typo3conf/ext/realurl/',
+            'suggestions' => [],
+        ],
+        't3kit_extension_tools' => [
+            'composerName' => 't3kit/t3kit-extension-tools',
+            'state' => 'active',
+            'packagePath' => 'typo3conf/ext/t3kit_extension_tools/',
+            'suggestions' => [],
+        ],
         'static_info_tables' => [
             'composerName' => 'sjbr/static-info-tables',
             'state' => 'active',
@@ -282,12 +294,6 @@ return [
             'packagePath' => 'typo3conf/ext/gridelements/',
             'suggestions' => [],
         ],
-        't3kit_extension_tools' => [
-            'composerName' => 't3kit/t3kit-extension-tools',
-            'state' => 'active',
-            'packagePath' => 'typo3conf/ext/t3kit_extension_tools/',
-            'suggestions' => [],
-        ],
         'theme_t3kit' => [
             'composerName' => 't3kit/theme-t3kit',
             'state' => 'active',
@@ -298,12 +304,6 @@ return [
             'composerName' => 't3kit/theme-t3kit-bluemountain',
             'state' => 'active',
             'packagePath' => 'typo3conf/ext/theme_t3kit_bluemountain/',
-            'suggestions' => [],
-        ],
-        'realurl' => [
-            'composerName' => 'dmitryd/typo3-realurl',
-            'state' => 'active',
-            'packagePath' => 'typo3conf/ext/realurl/',
             'suggestions' => [],
         ],
         'realurl_404_multilingual' => [
@@ -412,6 +412,12 @@ return [
             'composerName' => 'typo3/cms-opendocs',
             'state' => 'inactive',
             'packagePath' => 'typo3/sysext/opendocs/',
+            'suggestions' => [],
+        ],
+        'powermail' => [
+            'composerName' => 'in2code/powermail',
+            'state' => 'active',
+            'packagePath' => 'typo3conf/ext/powermail/',
             'suggestions' => [],
         ],
         'recycler' => [
